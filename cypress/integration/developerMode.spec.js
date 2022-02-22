@@ -12,3 +12,5 @@ describe("8 - Verifica os multi-ambientes e modo de desenvolvimento", () => {
     cy.contains("Em desenvolvimento").should("not.exist");
   });
 });
+
+//A
